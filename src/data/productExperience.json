@@ -1,0 +1,31 @@
+{
+	"productExperience": [{
+			"experience": {
+				"img": "http://www.dearisland.com/images/m/sty_1.png",
+				"name": "SELECTED",
+				"span": "打磨精品"
+			}
+		},
+		{
+			"experience": {
+				"img": "http://www.dearisland.com/images/m/sty_2.png",
+				"name": "SPECIAL",
+				"span": "适时适人"
+			}
+		},
+		{
+			"experience": {
+				"img": "http://www.dearisland.com/images/m/sty_3.png",
+				"name": "SUPRISED",
+				"span": "惊喜惊叹"
+			}
+		},
+		{
+			"experience": {
+				"img": "http://www.dearisland.com/images/m/sty_4.png",
+				"name": "SELECTED",
+				"span": "打磨精品"
+			}
+		}
+	]
+}

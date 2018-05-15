@@ -1,0 +1,39 @@
+{
+	"PersonalTailor": [{
+			"private": {
+				"span": "姓名 / ",
+				"text": "请留下您的大名"
+			}
+		},
+		{
+			"private": {
+				"span": "电话 / ",
+				"text": "为了找到您"
+			}
+		},
+		{
+			"private": {
+				"span": "微信 / ",
+				"text": "相互成为朋友"
+			}
+		},
+		{
+			"private": {
+				"span": "去哪 / ",
+				"text": "要去哪里浪"
+			}
+		},
+		{
+			"private": {
+				"span": "预算 / ",
+				"text": "方便设计适宜方案"
+			}
+		},
+		{
+			"private": {
+				"span": "人数 / ",
+				"text": "您几位出现"
+			}
+		}
+	]
+}
